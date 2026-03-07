@@ -44,3 +44,4 @@ print ( f" Dados processados : { dados }")
 
 print("Verificado por: Guilherme Rocco")
 
+print("Verificado por: Guilherme Rocco")
